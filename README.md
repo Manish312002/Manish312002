@@ -16,6 +16,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Manish312002&limit=5&theme=aura&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Manish312002&icon=10&color=13)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Manish312002&label=Profile%20Views&color=11&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
