@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm Bhoi Manish from Shirpur.<br><br>🔭 I’m working as an Aspiring Full-Stack Developer focused on the PERN stack.<br> 📚 I'm currently learning advanced React and Node.js to build better web applications.<br>⚡ In my free time, I enjoy working on personal projects and exploring new technologies.</p>
+<p align="left">I'm Bhoi Manish from Shirpur.<br><br>🔭 I’m working as an Aspiring Full-Stack Developer focused on the MERN stack.<br> 📚 I'm currently learning advanced React and Node.js to build better web applications.<br>⚡ In my free time, I enjoy working on personal projects and exploring new technologies.</p>
 
 ###
 
