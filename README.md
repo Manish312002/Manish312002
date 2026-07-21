@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 # Hi 👋, I'm Manish Bhoi
@@ -162,4 +162,3 @@ I'm **Manish Bhoi**, a Software Developer from Maharashtra, India, with a passio
 ### ⭐ *"Building scalable software, exploring AI, and continuously learning."*
 
 </div>
-```
