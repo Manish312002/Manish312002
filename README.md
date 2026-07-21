@@ -1,18 +1,27 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://linkedin.com/in/Manish312002" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"/>
-  </a>
-  <a href="mailto:mbhoi284@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"/>
-  </a>
-  <a href="https://leetcode.com/mbhoi284/" target="_blank">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="30" alt="leetcode"/>
+
+<a href="https://linkedin.com/in/Manish312002">
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="35"/>
 </a>
-  <a href="https://www.hackerrank.com/profile/mbhoi284" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="42" height="30" alt="hackerrank logo"/>
-  </a>
+
+<a href="mailto:mbhoi284@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" height="35"/>
+</a>
+
+<a href="https://github.com/Manish312002">
+<img src="https://cdn.simpleicons.org/github/FFFFFF" height="35"/>
+</a>
+
+<a href="https://leetcode.com/u/YOUR_USERNAME/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="35"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/mbhoi284">
+<img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="35"/>
+</a>
+
 </div>
 
 <h1 align="center">Hi there 👋 I'm Manish Bhoi</h1>
