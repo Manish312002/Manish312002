@@ -7,9 +7,9 @@
   <a href="mailto:mbhoi284@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"/>
   </a>
-  <a href="https://github.com/Manish312002" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="42" height="30" alt="github logo"/>
-  </a>
+  <a href="https://leetcode.com/mbhoi284/" target="_blank">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="30" alt="leetcode"/>
+</a>
   <a href="https://www.hackerrank.com/profile/mbhoi284" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="42" height="30" alt="hackerrank logo"/>
   </a>
@@ -95,6 +95,10 @@ I'm **Manish Bhoi**, a Software Developer from Maharashtra, India.
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Manish312002&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=Manish312002&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"
+/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish312002&layout=compact&theme=tokyonight"/>
 
