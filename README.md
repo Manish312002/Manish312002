@@ -59,7 +59,7 @@ I'm **Manish Bhoi**, a Software Developer from Maharashtra, India.
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
 </p>
 
 ### Tools
