@@ -1,81 +1,140 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://github.com/Manish312002" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+  <a href="https://linkedin.com/in/Manish312002" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"/>
   </a>
-  <a href="mbhoi284@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
+  <a href="mailto:mbhoi284@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"/>
+  </a>
+  <a href="https://github.com/Manish312002" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="42" height="30" alt="github logo"/>
   </a>
   <a href="https://www.hackerrank.com/profile/mbhoi284" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="42" height="30" alt="hackerrank logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="42" height="30" alt="hackerrank logo"/>
   </a>
 </div>
 
-###
+<h1 align="center">Hi there 👋 I'm Manish Bhoi</h1>
 
-<h1 align="center">hey there 👋</h1>
+<h3 align="center">
+Backend Developer • MERN & PERN Stack • AI & RAG Enthusiast
+</h3>
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+## 👨‍💻 About Me
 
-###
+I'm **Manish Bhoi**, a Software Developer from Maharashtra, India.
 
-<p align="left">I'm Bhoi Manish from Shirpur.<br><br>🔭 I’m working as an Aspiring AI Engineer.<br> 📚 I'm currently learning advanced System Design, AI & RAG.<br>⚡ In my free time, I enjoy working on personal projects and exploring new technologies.</p>
+- 🚀 Passionate about **Backend Development, AI Applications and Full Stack Engineering**
+- 💻 Building scalable applications using **Node.js, Express.js, React.js, MongoDB & PostgreSQL**
+- 🤖 Exploring **LLMs, Retrieval-Augmented Generation (RAG), FastAPI, LangChain and AI-powered applications**
+- 🏗️ Currently learning **Advanced System Design, Distributed Systems and Cloud Technologies**
+- 🔍 Interested in solving real-world problems through software and automation
+- 🌱 Always learning new technologies and improving software architecture
 
-###
+---
 
-<h3 align="left">🛠 Language and tools</h3>
+## 🛠 Tech Stack
 
-###
+### Languages
 
-<br clear="both">
+<p>
+<img src="https://skillicons.dev/icons?i=js,python,html,css" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,redux" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+</p>
+
+---
+
+## 🚀 What I'm Working On
+
+- 🔥 AI-powered Full Stack Applications
+- 🧠 RAG & LLM Integrations
+- 🏗️ Advanced Backend Architecture
+- ⚡ MERN & PERN Stack Projects
+- 📈 System Design & Scalable APIs
+
+---
+
+## 📌 Featured Projects
+
+- 📚 **BookNest** — Full Stack Online Bookstore & Literary Community (PERN)
+- 🤖 **AI Image Generator**
+- 📝 **MVBlog**
+- 🏠 **RentBuddy** — Rental Management Platform
+- 🏛️ **Architectural Visualization SaaS** (In Progress)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" style="background-color: white" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Manish312002&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish312002&layout=compact&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=Manish312002&theme=tokyonight"/>
+
 </div>
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manish312002&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Manish312002&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Manish312002&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manish312002&theme=tokyo-night"/>
+
 </div>
 
-###
+---
 
-<p align="left"></p>
+## 🏆 GitHub Trophies
 
-###
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Manish312002&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn: https://linkedin.com/in/Manish312002
+- 📧 Email: **mbhoi284@gmail.com**
+- 💻 GitHub: https://github.com/Manish312002
+- 🧩 HackerRank: https://www.hackerrank.com/profile/mbhoi284
+
+---
+
+<div align="center">
+
+### 💡 "Code. Learn. Build. Improve. Repeat."
+
+</div>
